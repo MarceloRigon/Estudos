@@ -1,0 +1,16 @@
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\bin\Debug\net5.0\ExercícioFixação.exe
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\bin\Debug\net5.0\ExercícioFixação.deps.json
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\bin\Debug\net5.0\ExercícioFixação.runtimeconfig.json
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\bin\Debug\net5.0\ExercícioFixação.runtimeconfig.dev.json
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\bin\Debug\net5.0\ExercícioFixação.dll
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\bin\Debug\net5.0\ref\ExercícioFixação.dll
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\bin\Debug\net5.0\ExercícioFixação.pdb
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\obj\Debug\net5.0\ExercícioFixação.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\obj\Debug\net5.0\ExercícioFixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\obj\Debug\net5.0\ExercícioFixação.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\obj\Debug\net5.0\ExercícioFixação.AssemblyInfo.cs
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\obj\Debug\net5.0\ExercícioFixação.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\obj\Debug\net5.0\ExercícioFixação.dll
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\obj\Debug\net5.0\ref\ExercícioFixação.dll
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\obj\Debug\net5.0\ExercícioFixação.pdb
+C:\Users\marce\Desktop\Curso Udemy\ExercícioFixação\ExercícioFixação\obj\Debug\net5.0\ExercícioFixação.genruntimeconfig.cache

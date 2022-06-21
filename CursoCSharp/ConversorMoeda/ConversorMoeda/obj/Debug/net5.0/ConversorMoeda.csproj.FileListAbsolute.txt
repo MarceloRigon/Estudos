@@ -1,0 +1,16 @@
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.exe
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.deps.json
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.runtimeconfig.json
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.runtimeconfig.dev.json
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.dll
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ref\ConversorMoeda.dll
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.pdb
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.AssemblyInfo.cs
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.dll
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ref\ConversorMoeda.dll
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.pdb
+C:\Users\marce\Desktop\Curso Udemy\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.genruntimeconfig.cache
